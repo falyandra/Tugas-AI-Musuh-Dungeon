@@ -7,7 +7,7 @@ Algoritma yang digunakan adalah kombinasi dari:
 
 ---
 
-## Flowchart Algoritma Pencari Rute (Versi Simpel)
+## Flowchart Algoritma Pencari Rute 
 *(Berikut adalah logika sederhana saat musuh mencari jalan ke arah pemain)*
 
 ```plantuml
